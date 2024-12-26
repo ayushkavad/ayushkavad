@@ -57,6 +57,6 @@ Hi! I'm Ayush, a Software Engineer passionate about building innovative solution
 
 - Twitter: [@ayushkavad](https://twitter.com/ayushkavad)
 - LinkedIn: [Ayush Kavad](https://linkedin.com/in/ayushkavad)
-- Email: ayushkavad@example.com
+- Email: ayushkavad@gmail.com
 
 Let's build something amazing together! ✨
